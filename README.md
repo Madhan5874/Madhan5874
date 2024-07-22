@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Madhan5874
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ML, Data Analytics 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on Above related projects
 - 📫 How to reach me ...
 
 <!---
-Madhan5874/Madhan5874 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+mail-id:- madhanmadhu5874@gmail.com
